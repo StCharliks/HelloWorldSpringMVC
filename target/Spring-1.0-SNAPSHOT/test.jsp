@@ -11,6 +11,8 @@
     <title>Title</title>
 </head>
 <body>
-    Hello World!
+    <h1>Hello World!</h1>
+    <h2>Ostapeko Aleksei</h2>
+    <h2>Request time: ${time}</h2>
 </body>
 </html>
